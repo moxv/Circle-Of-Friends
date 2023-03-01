@@ -23,4 +23,76 @@ OUTDATE_CLEAN: 60
 SETTINGS_FRIENDS_LINKS:
   enable: true
   json_api: https://seersu.me/json/friend.json
-  list: []
+  list:
+  - - "\u73C2\u6CFD\u5C0F\u7AD9"
+    - https://www.kezez.com/
+    - https://cravatar.cn/avatar/d47c36eff7f7bb6c2ddd129bfec21cd3?s=600&r=G&d=
+  - - "\u6797\u6728\u6728"
+    - https://immmmm.com/
+    - https://gravatar.loli.net/avatar/ba83fa02fc4b2ba621514941307e21be?d=identicon
+  - - "\u5F20\u6D2AHeo"
+    - https://blog.zhheo.com/
+    - https://img.zhheo.com/i/2022/08/19/62ff32fa28da1.png
+  - - "Sulv\u2019s Blog"
+    - https://www.sulvblog.cn/
+    - https://www.sulvblog.cn/img/Q.gif
+  - - "\u675C\u8001\u5E08\u8BF4"
+    - https://dusays.com/
+    - https://cdn.dusays.com/avatar.png
+  - - "\u5C0F\u7403\u98DE\u9C7C"
+    - https://mantyke.icu/
+    - https://mantyke.icu/images/logo.png
+  - - Leonus
+    - https://blog.leonus.cn/
+    - https://q1.qlogo.cn/g?b=qq&nk=553344777&s=5
+  - - "\u957F\u8857\u77ED\u68A6"
+    - https://wangyunzi.com/
+    - https://blog.wangyunzi.com/avatar.png
+  - - "B0ae\u8BA1\u5212"
+    - https://b0ae.cn/
+    - https://b0ae.cn/tx/blog.png
+  - - "\u5B89\u8FEA"
+    - https://andyblog.top/
+    - https://andyblog.top/logo.png
+  - - "Fomalhaut\U0001F95D"
+    - https://www.fomal.cc/
+    - https://www.fomal.cc/assets/head.jpg
+  - - "\u6B63\u7269\u535A\u5BA2"
+    - https://www.zwbo.com/
+    - https://www.zwbo.com/tx.png
+  - - "\u516B\u54AB\u4E4C"
+    - https://www.vergilisme.com/
+    - https://gravatar.loli.net/avatar/a9c7fa5311650805839788d0cbed597c?s=80&r=X&d=mm
+  - - zzhack
+    - https://www.zzhack.fun/
+    - https://www.zzhack.fun/images/avatar.png
+  - - "\u5929\u84BC\u4EBA\u9821"
+    - https://ejsoon.win/
+    - https://ejsoon.win/wp-content/uploads/2022/08/alogobg.png
+  - - Mycpen
+    - https://cpen.top/
+    - https://image.cpen.top/image/blog/avatar.png
+  - - "\u6C89\u821F\u4FA7\u7554"
+    - https://springwood.me/
+    - https://cravatar.cn/avatar/e7073f269e803311f4be6994f1086ed2?s=48&d=monsterid&r=g
+  - - "\u57CE\u5357\u65E7\u4E8B"
+    - https://www.pho.pub/
+    - https://ccdn.uso.cc/avatar/073021beabe7474b938618cc309779b2?s=65&r=G&d=mm
+  - - Azad's Space
+    - https://blog.azad.asia/
+    - https://blog.azad.asia/images/avatar.png
+  - - Catch Wang
+    - https://www.catchwang.com
+    - https://q1.qlogo.cn/g?b=qq&nk=2045638402&s=4
+  - - "\u6709\u610F\u683D\u82B1\u82B1\u6EE1\u679D"
+    - https://huangjia.site
+    - https://huangjia.site/img/profile.webp
+  - - "L1nSn0w\u2019s Blog"
+    - https://blog.linsnow.cn
+    - https://blog.linsnow.cn/img/avatar.png
+  - - "\u6545\u4E8B\u7684\u7A0B\u5E8F\u733F\U0001F468\U0001F3FB\u200D\U0001F4BB"
+    - https://blog.lichenghao.cn
+    - https://blog.lichenghao.cn/assets/images/head.svg
+  - - "\u6F6E\u6D41\u5468\u520A"
+    - https://weekly.tw93.fun/
+    - https://gw.alipayobjects.com/zos/k/qv/coffee-2-icon.png
